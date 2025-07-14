@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi I am Xiao Hu (胡晓). I am a second year PhD student at [Sichuan University](https://math.scu.edu.cn/) under the Supvervision of
+Hi I am Xiao Hu (胡晓). I am a second year PhD student at [Sichuan University](https://math.scu.edu.cn/) under the supvervision of
 
 - [Hui Kou(寇辉)](https://cta.scu.edu.cn/detail/203/275.htm)
 
