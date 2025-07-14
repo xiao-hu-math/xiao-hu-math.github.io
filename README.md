@@ -8,6 +8,8 @@ Hi I am Xiao Hu (胡晓). I am a second year PhD student at [Sichuan University]
 
 I love category theory and everything related to it.
 
+contact : xiao dot hu dot math at gmail com
+
 ## Publications
 
 - [Q-Set is not generally a topos.](https://www.sciencedirect.com/science/article/abs/pii/S0165011425002234) j/w [Lili Shen](https://math.mickeylili.com/)
