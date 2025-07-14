@@ -1,0 +1,35 @@
+         .row {
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         flex-direction:row
+         }
+         .column {
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         flex-direction:column;
+         padding-bottom:40px;
+         }
+
+         .lcolumn {
+         display: flex;
+         justify-content: center;
+         align-items: start;
+         flex-direction:column
+         }
+         .mplcolumn{
+            display: flex;
+            justify-content: center;
+            align-items: start;
+            padding-left: 100px
+         }
+         .banner{
+            max-height: 600px;
+         }
+         .mybutton{
+            max-height: 100px;
+         }
+         .mypad{
+            min-height: 50px;
+         }
