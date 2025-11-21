@@ -12,4 +12,4 @@ contact : xiao dot hu dot math at gmail com
 
 ## Publications
 
-- [Q-Set is not generally a topos.](https://www.sciencedirect.com/science/article/abs/pii/S0165011425002234) j/w [Lili Shen](https://math.mickeylili.com/) [slides](./assets/slides/Q_Set_slides.pdf)
+- [Q-Set is not generally a topos.](https://www.sciencedirect.com/science/article/abs/pii/S0165011425002234) j/w [Lili Shen](https://math.mickeylili.com/). See [slides](./assets/slides/Q_Set_slides.pdf)
